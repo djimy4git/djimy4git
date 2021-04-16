@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djimy4git (Boudissa Djamel)
+- 👋 Hi, I’m  Boudissa Djamel
 - 👀 I’m interested in Devlopement and programing languages 
 - 🌱 I’m currently learning Flutter and Dart 
 - 💞️ I’m looking to collaborate on many projects 
